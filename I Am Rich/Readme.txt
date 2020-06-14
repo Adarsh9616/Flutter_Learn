@@ -1,0 +1,2 @@
+This folder contains the app I Am Rich Developed using Flutter. Very basic App to show how we use join widgets to build the app in Flutter.
+Simply copy the code and files to your Android Stuido project folder and replace the existing code this the given code and files.
